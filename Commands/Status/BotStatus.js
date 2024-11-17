@@ -50,7 +50,7 @@ module.exports = {
             .setColor(0x0099FF)
             .setTitle('Bedwars Friends Status')
             .setTimestamp()
-            .setFooter({ text: 'Running on the davidnet network | github.com/dedestem/BedwarsFriendsBot', iconURL: 'https://davidnet.net/Assets/Logos/Logo4.png' });
+            .setFooter({ text: 'Running on the davidnet network | https://github.com/dedestem/Bedwars_Friends', iconURL: 'https://davidnet.net/Assets/Logos/Logo4.png' });
 
         embed.addFields([
             { name: "Bot", value: `✅ Online`, inline: false }

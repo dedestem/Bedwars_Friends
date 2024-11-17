@@ -8,7 +8,6 @@ const { clientId, guildId, token } = require('./Config.json');
 const fs = require('node:fs');
 const path = require('node:path');
 
-
 // Main
 const commands = [];
 
